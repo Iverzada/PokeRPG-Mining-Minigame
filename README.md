@@ -1,2 +1,2 @@
 # Mining-Minigame-PokeRPG
-Um minigame feito em Python rapidinho para minha mesa de RPG de Pokémon
+Um minigame feito rapidinho para minha mesa de RPG de Pokémon
