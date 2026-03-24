@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\save_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:save_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\mineracao.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mineracao.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "save_data.json",
+              "DocumentMoniker": "C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\save_data.json",
+              "RelativeDocumentMoniker": "save_data.json",
+              "ToolTip": "C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\save_data.json",
+              "RelativeToolTip": "save_data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T18:21:53.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mineracao.py",
+              "DocumentMoniker": "C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\mineracao.py",
+              "RelativeDocumentMoniker": "mineracao.py",
+              "ToolTip": "C:\\Users\\iverz\\Desktop\\C\u00F3digos\\mining minigame\\mineracao.py",
+              "RelativeToolTip": "mineracao.py",
+              "ViewState": "AgIAABsCAAAAAAAAAAAAAD8CAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-16T00:52:37.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
