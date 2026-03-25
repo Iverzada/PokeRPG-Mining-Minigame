@@ -324,7 +324,7 @@ class MiningGame:
                         if 0<=r<10 and 0<=c<13: self.grid[r][c] = max(0, self.grid[r][c]-1)
                 else:
                     if "hammer" in self.snd: self.snd["hammer"].play()
-                    final_hammer_dmg = BASE_HAMMER - (1 if self.talents["martelo1"] else 0) + (1 if self.talents["martelo2"] else 0)
+                    final_hammer_dmg = BASE_HAMMER - (1 if self.talents["martelo1"] else 0) + (4 if self.talents["martelo2"] else 0)
                     self.wall_hp -= final_hammer_dmg
                     for r in range(row-1, row+2):
                         for c in range(col-1, col+2):
@@ -420,7 +420,7 @@ class MiningGame:
             ("exploracao", "Exploração de Ruínas (+50 HP Máximo)"), 
             ("arqueologo", "Auxílio Arqueólogo (Garante de 3 a 6 itens)"),
             ("martelo1", "Melhoria do Martelo 1 (-1 Dano na Parede)"), 
-            ("martelo2", "Melhoria do Martelo 2 (+Área em Cruz, +1 Dano)"),
+            ("martelo2", "Melhoria do Martelo 2 (+Área e +Dano, +4 Dano na Parede)"),
             ("evo", "Escavação Evolutiva (Dobro de chance de encontrar itens Evolutivos)"),
             ("passado", "Escavando o Passado (Dobro de chance de encontrar Fósseis)"), 
             ("conhecimento", "Conhecimento Ancestral (Dobro de chance de encontrar Tesouros)")
